@@ -64,6 +64,7 @@
 
 ## File Management Tools
 
+- [SolveMyMedia](https://solvemymedia.com) - 100% private, client-side video and audio processing tools (compression, conversion, audio extraction, Whisper transcription) running in-browser via WebAssembly.
 - [File Merger Tool](https://www.tools-online.app/tools/merge-files) - Merge PDF files, Word documents, Excel spreadsheets, CSV, JSON, XML, and text files with smart memory management and drag-and-drop interface.
 
 ## DevOps & System Tools
